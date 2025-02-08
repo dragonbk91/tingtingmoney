@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TingTing Money</string>
+    <string name="server_client_id">YOUR_WEB_CLIENT_ID</string>
+</resources>
